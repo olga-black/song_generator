@@ -13,8 +13,8 @@ Requires Python 3.6 or above.
 
 If you don't have Python 3 and pip installed yet, check these guides for instructions:
 
-[Mac OS](https://evansdianga.com/install-pip-osx/)
-[Linux Ubuntu](https://docs.python-guide.org/starting/install3/linux/)
+[Mac OS](https://evansdianga.com/install-pip-osx/) |
+[Linux Ubuntu](https://docs.python-guide.org/starting/install3/linux/) |
 [Windows 10](https://phoenixnap.com/kb/how-to-install-python-3-windows)
 
 ### Install the dependencies
